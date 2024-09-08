@@ -8,7 +8,7 @@ image:
   repository: alon12345/argocd-course-webapp-cicd
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 36859d6a26c92fd3a821316a5e8e8054adfa9a31
+  tag: 1018d476622301316a5542633c6f97d01537bd94
 
 imagePullSecrets: []
 nameOverride: ""
