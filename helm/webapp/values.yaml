@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: AlonElimelech/argocd-course-webapp
+  repository: alon12345/argocd-course-webapp-cicd
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 0749f902c21ddbea8352c4aa5505b19b0cd86688
